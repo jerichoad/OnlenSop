@@ -1,4 +1,4 @@
-# House Plant Shop
+# House Plant Shop App: Your Green Oasis
 > Final Project for Native Mobile Programming Course at University of Surabaya.
 
 User can register, login, then top up their (dummy) money, to buy plants from the app. The app will also record the purchase history.
